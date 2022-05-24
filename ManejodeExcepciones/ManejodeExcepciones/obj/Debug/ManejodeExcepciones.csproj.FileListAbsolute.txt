@@ -1,0 +1,7 @@
+C:\Users\almei\OneDrive\Documentos\WorkSpace\GitHub POO\ManejoDeExcepciones\ManejodeExcepciones\ManejodeExcepciones\bin\Debug\ManejodeExcepciones.exe.config
+C:\Users\almei\OneDrive\Documentos\WorkSpace\GitHub POO\ManejoDeExcepciones\ManejodeExcepciones\ManejodeExcepciones\bin\Debug\ManejodeExcepciones.exe
+C:\Users\almei\OneDrive\Documentos\WorkSpace\GitHub POO\ManejoDeExcepciones\ManejodeExcepciones\ManejodeExcepciones\bin\Debug\ManejodeExcepciones.pdb
+C:\Users\almei\OneDrive\Documentos\WorkSpace\GitHub POO\ManejoDeExcepciones\ManejodeExcepciones\ManejodeExcepciones\obj\Debug\ManejodeExcepciones.csproj.AssemblyReference.cache
+C:\Users\almei\OneDrive\Documentos\WorkSpace\GitHub POO\ManejoDeExcepciones\ManejodeExcepciones\ManejodeExcepciones\obj\Debug\ManejodeExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\almei\OneDrive\Documentos\WorkSpace\GitHub POO\ManejoDeExcepciones\ManejodeExcepciones\ManejodeExcepciones\obj\Debug\ManejodeExcepciones.exe
+C:\Users\almei\OneDrive\Documentos\WorkSpace\GitHub POO\ManejoDeExcepciones\ManejodeExcepciones\ManejodeExcepciones\obj\Debug\ManejodeExcepciones.pdb
